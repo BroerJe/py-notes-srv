@@ -1,0 +1,7 @@
+##########################
+#                        #
+#  py-notes-srv Authors  #
+#                        #
+##########################
+
+BroerJe <broer.je.github@gmail.com>
