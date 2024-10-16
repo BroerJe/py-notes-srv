@@ -38,8 +38,8 @@ https://docs.docker.com/storage/volumes/
 #  Licence
 ##
 
-This project is licenced under the GNU General Public V2.0 licence. 
-Please read the included LICENCE.txt for the exact terms.
+This project is licenced under the GNU General Public V2.0 license.
+Please read the included LICENSE.txt for the exact terms.
 
 
 ##
