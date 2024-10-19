@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-# This file is part of the py-notes-srv Project.
-# See AUTHORS file for copyright information.
+# This file is part of the py-notes-srv project.
+# See the included AUTHORS file for copyright information.
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
